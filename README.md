@@ -12,8 +12,8 @@ One project solves one thing.
 
 Include a MD5 implementation.
 
-Inspired by (JieweiWei)[https://github.com/JieweiWei/md5]
+Inspired by [JieweiWei](https://github.com/JieweiWei/md5)
 
 ## MovingPercentile
 
-Inspired by (Ashelly)[https://stackoverflow.com/users/10396/ashelly]
+Inspired by [Ashelly](https://stackoverflow.com/users/10396/ashelly)
