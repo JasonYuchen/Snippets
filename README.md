@@ -6,7 +6,9 @@ One project solves one thing.
 
 # Project List
 
-## Helper
+## Helper && Quiz
+
+Modern C++ playground
 
 ## MessageDigest
 
@@ -17,3 +19,7 @@ Inspired by [JieweiWei](https://github.com/JieweiWei/md5)
 ## MovingPercentile
 
 Inspired by [Ashelly](https://stackoverflow.com/users/10396/ashelly)
+
+## SpinningDoorAlgorithm
+
+A naive implementation of spinning door compression algorithm
